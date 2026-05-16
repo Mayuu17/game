@@ -1,0 +1,8 @@
+{
+  "name": "Riddle Master",
+  "description": "An interactive, witty, and engaging riddle game hosted by the AI Riddle Master.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
